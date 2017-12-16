@@ -1,0 +1,12 @@
+body {
+  padding: 20px;
+  background: #efefef;
+}
+
+h3   {
+  background: #2196F3;
+  color: #FFF;
+  max-width: 350px;
+  padding: 25px; 
+  text-align:center;
+}

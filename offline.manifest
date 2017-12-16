@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+#v8
+
+CACHE:
+./
+css/estilos.css
+css/material.min.css
+js/material.min.js
+
+NETWORK:
+*
